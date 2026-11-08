@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLIP 项目审议与准备"
+  short_description: "贯通 MLIP 数据、训练、模拟与分析，本地准备材料并保存超算环境，由用户决定计算启动"
+  default_prompt: "使用 $atomistic-compute-review，根据已有资产完善当前方案，在本地准备材料、维护所用超算环境档案，并列明证据、缺口和计算启动边界。"
